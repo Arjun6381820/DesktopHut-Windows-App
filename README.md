@@ -30,7 +30,10 @@ This repository is used for **official releases, documentation, and downloads**.
 
 ## 🖼 Screenshots
 
-![DesktopHut Preview](assets/preview.webp)
+![chrome_5iRBXpQDjI](https://github.com/user-attachments/assets/b0df8d9b-35ea-4839-87e5-3f66e432a629)
+![DesktopHut_oabiiHVwTq](https://github.com/user-attachments/assets/191f0901-cc82-4e24-9af3-f3283712981d)
+![DesktopHut_XxFwoEzhyU](https://github.com/user-attachments/assets/cd92a14f-d1d8-4f7d-927f-affe640558df)
+
 
 ---
 
